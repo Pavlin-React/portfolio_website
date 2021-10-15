@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         Enthusiastic learner who quickly grasps new concepts and technical skills.  Organized, goal oriented and analytical thinker. Hard-working, dedicated and efficacious worker.
         </SectionText>
-        <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+        <Button onClick={() => window.location = 'https://github.com/Pavlin-React'}>My Github</Button>
       </LeftSection>
     </Section>
   </>
