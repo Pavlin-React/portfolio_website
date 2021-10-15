@@ -8,8 +8,12 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      React/React-Native, Next-JS, CSS, JSX, Contentful, Netlify
+      Material-UI, Mocha, Chai, JavaScript Fundamentals, RN-CLI/EXPO-CLI
+      useState, useEffect, RN-Navigation V5/V6, Context, RN-Paper, 
+      RN-SVG/SVG-TRANSFORMERS, RN-Slider, RN-Vector-Icons
+      Firebase (basic level), RN-Track-Player, RN-Snap-Carousel
+      Lottie-Files, Styled-Components
     </SectionText>
     <List>
       <ListItem>
@@ -20,7 +24,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            React/React-Native
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +36,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Firebase, Netlify, Contenful
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -44,7 +48,7 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            tools like Figma and Adobe XD
           </ListParagraph>
         </ListContainer>
       </ListItem>

@@ -44,9 +44,9 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>About Me</SectionTitle>
+      <SectionTitle>Contact Me</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      mobile: +359 999 990 900,  email: pavlin.react@gmail.com
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
