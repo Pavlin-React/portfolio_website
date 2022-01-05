@@ -23,5 +23,6 @@ export const TimeLineData = [
   { year: 2018, text: 'Started my journey', },
   { year: 2019, text: 'Start codding with a JavaScript', },
   { year: 2020, text: 'Beginning with React', },
-  { year: 2021, text: 'Learning React-Native', },
+  { year: 2021, text: 'React-Native developer at tibroish.bg', },
+  { year: 2022, text: 'Learning TypeScript and Redux tool-kit', },
 ];
